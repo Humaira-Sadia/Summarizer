@@ -1,4 +1,6 @@
 # **`React + Vite + Rapid API`**
+![repo](https://github.com/Humaira-Sadia/Summarizer/assets/107783584/f82a1f53-35e1-43a2-b7ec-f18fc1170060)
+
 
 **Summarize Articles with OpenAI GPT-4 is a cutting-edge tool designed to efficiently condense lengthy articles sourced from URLs into concise, informative summaries.**
  
@@ -11,3 +13,4 @@ Here are some key features of Summarizer:
 - **`Copy Summarized Text` :** Unlike other summarization tools, Redmi Summarizer allows you to copy the summarized text directly, making it easy to share or reference later.
 
 - **`Modern Technology Stack` :** Our application is built using cutting-edge technologies, including ReactJS, Vite, Tailwind CSS, Redux for state management, and Rapid API for seamless data retrieval from the web.
+
