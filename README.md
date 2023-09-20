@@ -1,8 +1,13 @@
-# React + Vite
+# **`React + Vite + Rapid API`**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Summarize Articles with OpenAI GPT-4 is a cutting-edge tool designed to efficiently condense lengthy articles sourced from URLs into concise, informative summaries.**
+ 
+**_Sumz_** empowers you to swiftly grasp the essential insights from extensive content, saving your time and effort in your quest for knowledge. 
 
-Currently, two official plugins are available:
+Here are some key features of Redmi Summarizer:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Summarize Any Article: Simply paste the URL of the article you want to summarize, and Redmi Summarizer will generate a condensed version of the content, distilling it into three paragraphs of key information.
+
+- Copy Summarized Text: Unlike other summarization tools, Redmi Summarizer allows you to copy the summarized text directly, making it easy to share or reference later.
+
+- Modern Technology Stack: Our application is built using cutting-edge technologies, including ReactJS, Vite, Tailwind CSS, Redux for state management, and Rapid API for seamless data retrieval from the web.
